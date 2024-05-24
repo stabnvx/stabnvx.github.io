@@ -47,7 +47,7 @@ body {
 h1 {
   transform: translateZ(5vw);
   margin: 0;
-  font-size: 5vw;
+  font-size: 3vw;
   font-weight: normal;
   font-family: 'Kumar One Outline', -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue",Arial,sans-serif;
 }
